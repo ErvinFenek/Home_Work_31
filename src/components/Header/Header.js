@@ -3,7 +3,7 @@ import React from "react";
 import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid";
 
-import logo from "../pictures/Site-logo.png"
+import logo from "../../pictures/Site-logo.png"
 import { MyStyledLinkHeader } from "./HeaderStyle";
 
 
