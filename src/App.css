@@ -1,7 +1,12 @@
 .App {
   text-align: center;
 }
-
+@font-face {
+  font-family: "Rubick-Regular";
+  src: local("Rubick-Regular"), local("Rubick-Regular"), url("./fonts/Rubik-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
 .MainMenuTitle {
   padding-left: 5px;
 }
